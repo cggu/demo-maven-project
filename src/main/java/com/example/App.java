@@ -17,7 +17,7 @@ public class App {
 
         @GetMapping("/hello")
         public String hello() {
-            return "Hello, this is a demo Maven project for Jenkins CI/CD!";
+            return "Hello, this is a demo Maven project for Jenkins CI/CD-2.0!";
         }
     }
 }
